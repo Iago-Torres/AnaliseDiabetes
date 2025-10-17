@@ -27,9 +27,3 @@ Este repositório contém scripts para explorar um dataset de diabetes, treinar 
 - (Opcional) `jupyter notebook` para exploração interativa  
 
 ---
-
-## 🚀 Como executar
-
-1. Clone o repositório  
-   ```bash
-   git clone https://github.com/Iago-Torres/AnaliseDiabetes.git
